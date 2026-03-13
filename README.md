@@ -1,7 +1,7 @@
 # Olá! Eu sou o Nycolas Queiroz Gimenez 👋
 
 ### 🐍 Python Developer | Data Analysis & Computer Vision  
-🏆 National Robotics Champion (OBR 2024) | 🌎 RoboCup Participant 2024/2025
+🏆 National Robotics Champion (OBR 2024) | 🌎 RoboCup Participant 2025
 
 Sou desenvolvedor focado em **Análise de Dados, Inteligência Artificial e Visão Computacional**, atualmente cursando o último ano de **Desenvolvimento de Sistemas (SENAI Zerbini)** e **Ensino Médio (SESI)**.
 
