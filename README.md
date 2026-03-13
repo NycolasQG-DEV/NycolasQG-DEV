@@ -2,28 +2,19 @@
 
 ### ☕💻 Transformando café em código desde 2020. 🥇 Campeão Nacional OBR '24 | ⭐ Destaque RoboCup '25. 🚀 Aplicando lógica de robôs em Análise de Dados e IA.
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, cursando o **último ano do Ensino Médio no SESI Hortolândia** e o **último ano do Técnico em Desenvolvimento de Sistemas (DS) no SENAI Zerbini**. Tenho uma base técnica muito forte que vai desde o desenvolvimento Web (Front e Back-end) até a programação de baixo nível e Inteligência Artificial.
+Desenvolvedor apaixonado por tecnologia e resolução de problemas, cursando o último ano de Desenvolvimento de Sistemas (SENAI Zerbini) e Ensino Médio (SESI). Com uma base sólida em programação de baixo nível e web, atualmente direciono minha vivência em competições de alto desempenho para construir uma carreira em **Análise de Dados e Inteligência Artificial**.
 
-Atualmente, estou direcionando minha lógica de programação e minha vivência em competições de alto desempenho para construir uma carreira sólida em **Análise de Dados e Inteligência Artificial**.
-
-- 🔭 Construindo meu portfólio de Dados e estudando **Python para Data Science e SQL**.
-- 🌱 Aprofundando conhecimentos em **Estatística, Modelagem de Banco de Dados e Machine Learning**.
-- 📫 Como me encontrar: nycolas.gimenez@gmail.com ou no [LinkedIn](https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/) ou [Instagram](https://www.instagram.com/nycolas_qg2/)
+- 🔭 Construindo projetos de **Análise de Dados com Python e SQL**.
+- 🌱 Aprofundando estudos em **Estatística e Machine Learning**.
+- 📫 Conecte-se comigo: nycolas.gimenez@gmail.com ou [LinkedIn](https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/) | [Instagram](https://www.instagram.com/nycolas_qg2/)
 
 ---
 
-### 🏆 Minha Jornada na Robótica: Equipe Hortobots
+### 🏆 De Campeão de Robótica a Analista de Dados
 
-Acredito que a tecnologia deve resolver problemas reais. Muito antes de focar em modelagem de negócios, minha base analítica foi construída na mecânica, na eletrônica e no código de competição.
+Como programador da equipe **Hortobots** (SESI Hortolândia), fui **Campeão Nacional da OBR (Robótica Artística)**, o que nos levou a representar o Brasil no **Mundial da RoboCup 2024/2025**. 
 
-Como membro e **Programador** da equipe **Hortobots** (SESI Hortolândia), fui **Campeão Nacional da Olimpíada Brasileira de Robótica (OBR)** na modalidade de Robótica Artística. Essa vitória nos levou a representar o Brasil no **Mundial da RoboCup 2024/2025** em Salvador (liga OnStage), competindo contra as melhores mentes de mais de 40 países.
-
-Essa jornada transformou completamente o meu nível técnico. Tive que sair da teoria e fazer o código funcionar no mundo físico, lidando com imprevistos de hardware e otimização de processamento sob extrema pressão.
-
-**Onde os Dados entram nisso?**
-No desenvolvimento do nosso robô principal (o *AI-Byte-Gorythm*), eu atuei diretamente com **processamento de dados em tempo real**. Utilizando **Python e OpenCV (Visão Computacional)**, o robô precisava capturar matrizes brutas de pixels da câmera, processar essas imagens instantaneamente para detectar humanos no palco e converter isso em dados numéricos que ditavam a tomada de decisão em **C++** para os motores. 
-
-Aprender a extrair sinais no meio do ruído (luzes do palco, movimentação, calibração de sensores) me deu a base perfeita para o que faço hoje: limpar bases de dados complexas e extrair inteligência útil para a tomada de decisão.
+Minha transição para a área de dados nasceu exatamente dessa experiência: atuar no processamento de informações em tempo real. Desenvolvendo a inteligência do robô *AI-Byte-Gorythm*, utilizei **Python e OpenCV (Visão Computacional)** para capturar, limpar e analisar matrizes de pixels, convertendo dados visuais brutos em comandos de tomada de decisão em **C++** sob extrema pressão. Essa vivência me deu a base analítica perfeita para o que faço hoje: estruturar dados complexos para gerar valor e inteligência.
 
 <p align="center">
   <img src="Hortobots Campeão nacional.jpg" alt="Nycolas competindo no Mundial da RoboCup" width="600" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
@@ -34,8 +25,6 @@ Aprender a extrair sinais no meio do ruído (luzes do palco, movimentação, cal
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
-Minha stack de desenvolvimento, combinando a flexibilidade da Web com o poder dos Dados e Sistemas Embarcados:
 
 **Linguagens Principais:**
 <p align="left">
@@ -63,7 +52,7 @@ Minha stack de desenvolvimento, combinando a flexibilidade da Web com o poder do
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NycolasQG-DEV&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
