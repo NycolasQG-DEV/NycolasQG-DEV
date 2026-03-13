@@ -20,7 +20,7 @@ Minha transição para a área de dados nasceu exatamente dessa experiência: at
 Essa vivência me deu a base analítica perfeita para o que faço hoje: estruturar dados complexos para encontrar padrões, gerar valor e inteligência para o negócio.
 
 <p align="center">
-  <img src="Hortobots Campeão nacional.jpg" alt="Nycolas competindo no Mundial da RoboCup" width="600" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
+  <img src="Hortobots Campeão nacional.jpg" alt="Nycolas competindo no Mundial da RoboCup" width="500" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
   <br>
   <em>Campeão Nacional da Olimpíada Brasileira de Robótica (OBR) em 2024.</em>
 </p>
