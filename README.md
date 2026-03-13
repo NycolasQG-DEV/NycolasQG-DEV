@@ -11,7 +11,7 @@ Desenvolvedor apaixonado por tecnologia e resolução de problemas, cursando o �
 
 ---
 
-### 🏆 De Campeão de Robótica a Analista de Dados
+### 🏆 De Campeão de Robótica a futuro Analista de Dados
 
 Como programador líder da equipe **Hortobots** (SESI Hortolândia), fui **Campeão Nacional da OBR (Robótica Artística)**, o que nos levou a representar o Brasil no **Mundial da RoboCup 2024/2025**. 
 
