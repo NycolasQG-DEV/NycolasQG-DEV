@@ -23,7 +23,7 @@ Lidar com robôs autônomos exigiu o uso avançado de **C++ e Python (OpenCV par
 <p align="center">
   <img src="Hortobots Campeão nacional.jpg" alt="Nycolas competindo no Mundial da RoboCup" width="600" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
   <br>
-  <em>Representando o Brasil com a equipe Hortobots no Mundial da RoboCup.</em>
+  <em>Campeão Nacional da Olimpíada Brasileira de Robótica(OBR) em 2024.</em>
 </p>
 
 ---
