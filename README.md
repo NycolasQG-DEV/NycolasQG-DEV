@@ -84,8 +84,8 @@ Essa experiência me ensinou a **transformar dados brutos em decisões inteligen
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nycolas-QG-DEV&show_icons=true&theme=github_dark"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-QG-DEV&layout=compact&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NycolasQG-DEV&show_icons=true&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasQG-DEV&layout=compact&theme=github_dark"/>
 </p>
 
 ---
