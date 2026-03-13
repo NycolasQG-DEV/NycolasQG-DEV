@@ -2,19 +2,22 @@
 
 ### ☕💻 Transformando café em código desde 2020. 🥇 Campeão Nacional OBR '24 | ⭐ Destaque RoboCup '25. 🚀 Aplicando lógica de robôs em Análise de Dados e IA.
 
-Desenvolvedor apaixonado por tecnologia e resolução de problemas, cursando o último ano de Desenvolvimento de Sistemas (SENAI Zerbini) e Ensino Médio (SESI). Com uma base sólida em programação de baixo nível e web, atualmente direciono minha vivência em competições de alto desempenho para construir uma carreira em **Análise de Dados e Inteligência Artificial**.
+Desenvolvedor apaixonado por tecnologia e resolução de problemas, cursando o último ano de Desenvolvimento de Sistemas (SENAI Zerbini) e Ensino Médio (SESI). Com uma base sólida em programação de baixo nível e web, **atualmente busco minha primeira oportunidade profissional (estágio ou vaga Júnior)** para aplicar minha vivência de competições de alto desempenho na área de **Análise de Dados e Inteligência Artificial**.
 
 - 🔭 Construindo projetos de **Análise de Dados com Python e SQL**.
 - 🌱 Aprofundando estudos em **Estatística e Machine Learning**.
+- 💼 **Status:** Disponível para novos desafios profissionais e aberto a oportunidades!
 - 📫 Conecte-se comigo: nycolas.gimenez@gmail.com ou [LinkedIn](https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/) | [Instagram](https://www.instagram.com/nycolas_qg2/)
 
 ---
 
 ### 🏆 De Campeão de Robótica a Analista de Dados
 
-Como programador da equipe **Hortobots** (SESI Hortolândia), fui **Campeão Nacional da OBR (Robótica Artística)**, o que nos levou a representar o Brasil no **Mundial da RoboCup 2024/2025**. 
+Como programador líder da equipe **Hortobots** (SESI Hortolândia), fui **Campeão Nacional da OBR (Robótica Artística)**, o que nos levou a representar o Brasil no **Mundial da RoboCup 2024/2025**. 
 
-Minha transição para a área de dados nasceu exatamente dessa experiência: atuar no processamento de informações em tempo real. Desenvolvendo a inteligência do robô *AI-Byte-Gorythm*, utilizei **Python e OpenCV (Visão Computacional)** para capturar, limpar e analisar matrizes de pixels, convertendo dados visuais brutos em comandos de tomada de decisão em **C++** sob extrema pressão. Essa vivência me deu a base analítica perfeita para o que faço hoje: estruturar dados complexos para gerar valor e inteligência.
+Minha transição para a área de dados nasceu exatamente dessa experiência: atuar no processamento de informações em tempo real. Desenvolvendo a inteligência do robô *AI-Byte-Gorythm*, utilizei **Python e OpenCV (Visão Computacional)** para capturar, limpar e analisar matrizes de pixels, convertendo dados visuais brutos em comandos de tomada de decisão em **C++** sob extrema pressão. 
+
+Essa vivência me deu a base analítica perfeita para o que faço hoje: estruturar dados complexos para encontrar padrões, gerar valor e inteligência para o negócio.
 
 <p align="center">
   <img src="Hortobots Campeão nacional.jpg" alt="Nycolas competindo no Mundial da RoboCup" width="600" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);" />
@@ -45,7 +48,8 @@ Minha transição para a área de dados nasceu exatamente dessa experiência: at
 
 **Dados & IA:**
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
