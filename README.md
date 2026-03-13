@@ -1,16 +1,3 @@
-# Olá! Eu sou o Nycolas Queiroz Gimenez 👋
-
-### Transformando café em código e problemas complexos em soluções. 🚀
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação, cursando o **último ano do Ensino Médio no SESI Hortolândia** e o **último ano do Técnico em Desenvolvimento de Sistemas (DS) no SENAI Zerbini**. Tenho uma base técnica muito forte que vai desde o desenvolvimento Web (Front e Back-end) até a programação de baixo nível e Inteligência Artificial.
-
-Atualmente, estou direcionando minha lógica de programação e minha vivência em competições de alto desempenho para construir uma carreira sólida em **Análise de Dados e Inteligência Artificial**.
-
-- ☕ Construindo meu portfólio de Dados e estudando **Python para Data Science e SQL**.
-- 💻 Aprofundando conhecimentos em **Estatística, Modelagem de Banco de Dados e Machine Learning**.
-- 📫 Como me encontrar: nycolas.gimenez@gmail.com ou no [LinkedIn](https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/) ou [Instagram](https://www.instagram.com/nycolas_qg2/)
-
----
 # Olá! Eu sou o Nycolas Gimenez 👋
 
 ### ☕💻 Transformando café em código desde 2020. 🥇 Campeão Nacional OBR '24 | ⭐ Destaque RoboCup '25. 🚀 Aplicando lógica de robôs em Análise de Dados e IA.
