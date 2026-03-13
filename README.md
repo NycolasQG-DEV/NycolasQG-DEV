@@ -1,4 +1,4 @@
-# Olá! Eu sou o Nycolas Gimenez 👋
+# Olá! Eu sou o Nycolas Queiroz Gimenez 👋
 
 ### ☕💻 Transformando café em código desde 2020. 🥇 Campeão Nacional OBR '24 | ⭐ Destaque RoboCup '25. 🚀 Aplicando lógica de robôs em Análise de Dados e IA.
 
@@ -48,13 +48,4 @@ Minha transição para a área de dados nasceu exatamente dessa experiência: at
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NycolasQG-DEV&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasQG-DEV&layout=compact&theme=radium&hide_border=true" alt="Linguagens Mais Usadas" />
 </p>
