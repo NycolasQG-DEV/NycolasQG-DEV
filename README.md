@@ -30,7 +30,7 @@ https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/
 
 Fui **programador líder da equipe Hortobots (SESI Hortolândia)**, conquistando o título de **Campeão Nacional da Olimpíada Brasileira de Robótica (OBR 2024)** na modalidade **Robótica Artística**.
 
-Essa conquista levou nossa equipe a representar o **Brasil no Mundial da RoboCup 2024/2025**.
+Essa conquista levou nossa equipe a representar o **Brasil no Mundial da RoboCup 2025**.
 
 Durante o desenvolvimento do robô **AI-Byte-Gorythm**, trabalhei diretamente com:
 
@@ -84,8 +84,8 @@ Essa experiência me ensinou a **transformar dados brutos em decisões inteligen
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nycolas-QG&show_icons=true&theme=github_dark"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-QG&layout=compact&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nycolas-QG-DEV&show_icons=true&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-QG-DEV&layout=compact&theme=github_dark"/>
 </p>
 
 ---
