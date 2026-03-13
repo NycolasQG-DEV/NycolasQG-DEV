@@ -51,24 +51,6 @@ Essa experiência me ensinou a **transformar dados brutos em decisões inteligen
 
 ---
 
-# 🚀 Featured Projects
-
-### 📊 Data Analysis Projects
-- **Football Data Analysis**
-  - Exploratory Data Analysis utilizando **Python, Pandas e Matplotlib**
-
-- **Student Performance Prediction**
-  - Modelo de **Machine Learning** para prever desempenho acadêmico
-
-### 🤖 Computer Vision
-- **Autonomous Robot Vision System**
-  - Sistema de visão computacional para robôs autônomos usando **OpenCV**
-
-### 🧠 Robotics & AI
-- **AI-Byte-Gorythm**
-  - Sistema de decisão para robô autônomo desenvolvido para competição nacional
-
----
 
 # 🛠 Tecnologias e Ferramentas
 
