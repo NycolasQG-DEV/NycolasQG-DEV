@@ -1,26 +1,26 @@
-# Olá! Eu sou o Nycolas Queiroz Gimenez 👋
+# Hi! I'm Nycolas Queiroz Gimenez 👋
 
 ### 🐍 Python Developer | Data Analysis • Computer Vision  
 🏆 OBR National Champion 2024 | 🌎 RoboCup Participant 2025
 
-Sou desenvolvedor focado em **Análise de Dados, Inteligência Artificial e Visão Computacional**.
+I am a developer focused on **Data Analysis, Artificial Intelligence and Computer Vision**.
 
-Atualmente estou cursando o último ano de **Desenvolvimento de Sistemas (SENAI Zerbini)** e **Ensino Médio (SESI)**.
+Currently in my final year of **Systems Development (SENAI Zerbini)** and **High School (SESI)**.
 
-Minha trajetória começou na **robótica competitiva**, onde desenvolvi sistemas de **tomada de decisão em tempo real para robôs autônomos**. Hoje aplico essa mesma mentalidade analítica para **extrair insights de dados, desenvolver modelos e resolver problemas complexos com programação**.
+My journey started in **competitive robotics**, where I developed **real-time decision systems for autonomous robots**. Today I apply the same analytical mindset to **extract insights from data, build models and solve complex problems through programming**.
 
-Atualmente busco minha **primeira oportunidade profissional (Estágio ou vaga Júnior)** para aplicar minha experiência em **Python, análise de dados e visão computacional**.
+I am currently looking for my **first professional opportunity (Internship or Junior position)** to apply my experience in **Python, Data Analysis and Computer Vision**.
 
 ---
 
-# 🚀 O que estou fazendo atualmente
+# 🚀 What I'm Currently Doing
 
-- 🔭 Desenvolvendo projetos de **Data Analysis com Python e SQL**
-- 📊 Estudando **Estatística, Machine Learning e Data Science**
-- 🤖 Criando soluções que conectam **robótica, visão computacional e dados**
-- 💼 **Aberto a oportunidades de estágio ou vaga júnior**
+- 🔭 Developing **Data Analysis projects using Python and SQL**
+- 📊 Studying **Statistics, Machine Learning and Data Science**
+- 🤖 Building solutions that connect **robotics, computer vision and data**
+- 💼 **Open to internship or junior opportunities**
 
-📫 **Contato**
+📫 **Contact**
 
 ✉️ Email: **nycolas.gimenez@gmail.com**  
 💼 LinkedIn  
@@ -30,18 +30,18 @@ https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/
 
 # 🏆 Robotics Experience
 
-Fui **Lead Programmer da equipe Hortobots (SESI Hortolândia)**, conquistando o título de **Campeão Nacional da Olimpíada Brasileira de Robótica (OBR 2024)** na modalidade **Robótica Artística**.
+I was the **Lead Programmer of the Hortobots Team (SESI Hortolândia)**, achieving the title of **National Champion of the Brazilian Robotics Olympiad (OBR 2024)** in the **Artistic Robotics category**.
 
-Essa conquista levou nossa equipe a representar o **Brasil no Mundial da RoboCup 2025**.
+This achievement led our team to represent **Brazil at the RoboCup 2025 World Championship**.
 
-Durante o desenvolvimento do robô **AI-Byte-Gorythm**, trabalhei diretamente com:
+During the development of the robot **AI-Byte-Gorythm**, I worked directly with:
 
-- **Python + OpenCV** para visão computacional
-- Processamento de **matrizes de pixels em tempo real**
-- Conversão de dados visuais em **tomada de decisão automatizada**
-- Implementação de controle do robô utilizando **C++**
+- **Python + OpenCV** for computer vision
+- Real-time **pixel matrix processing**
+- Converting visual data into **automated decision-making**
+- Implementing robot control using **C++**
 
-Essa experiência me ensinou a **transformar dados brutos em decisões inteligentes**, habilidade essencial na área de **Data Analysis e Inteligência Artificial**.
+This experience taught me how to **transform raw data into intelligent decisions**, a key skill in **Data Analysis and Artificial Intelligence**.
 
 <p align="center">
 <img src="Hortobots Campeão nacional.jpg" width="500">
@@ -51,10 +51,9 @@ Essa experiência me ensinou a **transformar dados brutos em decisões inteligen
 
 ---
 
+# 🛠 Technologies & Tools
 
-# 🛠 Tecnologias e Ferramentas
-
-### Linguagens
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -64,7 +63,7 @@ Essa experiência me ensinou a **transformar dados brutos em decisões inteligen
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Dados & Inteligência Artificial
+### Data & Artificial Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -73,7 +72,7 @@ Essa experiência me ensinou a **transformar dados brutos em decisões inteligen
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Web & Back-end
+### Web & Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
