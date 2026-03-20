@@ -1,7 +1,7 @@
 # Hi! I'm Nycolas Queiroz Gimenez 👋
 
-### 🐍 Python Developer | Data Analysis • Computer Vision  
-🏆 OBR National Champion 2024 | 🌎 RoboCup Participant 2025
+### Python Developer | Data Analysis • Computer Vision  
+ OBR National Champion 2024 |  RoboCup Participant 2025
 
 I am a developer focused on **Data Analysis, Artificial Intelligence and Computer Vision**.
 
@@ -13,22 +13,22 @@ I am currently looking for my **first professional opportunity (Internship or Ju
 
 ---
 
-# 🚀 What I'm Currently Doing
+#  What I'm Currently Doing
 
-- 🔭 Developing **Data Analysis projects using Python and SQL**
-- 📊 Studying **Statistics, Machine Learning and Data Science**
-- 🤖 Building solutions that connect **robotics, computer vision and data**
-- 💼 **Open to internship or junior opportunities**
+-  Developing **Data Analysis projects using Python and SQL**
+-  Studying **Statistics, Machine Learning and Data Science**
+-  Building solutions that connect **robotics, computer vision and data**
+-  **Open to internship or junior opportunities**
 
-📫 **Contact**
+ **Contact**
 
-✉️ Email: **nycolas.gimenez@gmail.com**  
-💼 LinkedIn  
+ Email: **nycolas.gimenez@gmail.com**  
+ LinkedIn  
 https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/
 
 ---
 
-# 🏆 Robotics Experience
+#  Robotics Experience
 
 I was the **Lead Programmer of the Hortobots Team (SESI Hortolândia)**, achieving the title of **National Champion of the Brazilian Robotics Olympiad (OBR 2024)** in the **Artistic Robotics category**.
 
@@ -83,7 +83,7 @@ This experience taught me how to **transform raw data into intelligent decisions
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NycolasQG-DEV&show_icons=true&theme=github_dark"/>
