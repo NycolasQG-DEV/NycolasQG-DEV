@@ -27,7 +27,7 @@ Open to **internship or junior opportunities**.
 
 | | |
 |---|---|
-| 🥇 | **National Champion** — OBR Artistic Robotics 2024 · Hortobots / SESI Hortolândia |
+| 🥇 | **National Champion** — OBR Artistic Robotics 2024 - Hortobots / SESI Hortolândia · 1st place · Goiânia, GO |
 | 🌍 | **RoboCup World Championship 2025** — 1st place Performance · 2nd place Poster · Salvador, BA |
 
 ---
