@@ -62,15 +62,6 @@ Open to **internship or junior opportunities**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NycolasQG-DEV&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasQG-DEV&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 <div align="center">
 
 📬 **nycolas.gimenez@gmail.com** · [LinkedIn](https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/)
