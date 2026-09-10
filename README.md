@@ -29,7 +29,7 @@ Systems developer with hands-on experience across hardware, firmware, and softwa
 
 My background comes from competitive robotics and autonomous systems, where I designed and built robots from scratch: circuit design, embedded programming in C/C++, computer vision, and mechanical structure. I know how each layer affects the others, and I know how to make the whole thing work.
 
-Currently finishing **Systems Development (SENAI Zerbini)** and **High School (SESI Hortolândia)** in Campinas, São Paulo.
+Currently finishing **Systems Development (SENAI Zerbini)** and **High School (SESI Hortolândia)** , São Paulo.
 Open to **internship or junior opportunities**.
 
 ---
