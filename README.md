@@ -5,7 +5,7 @@
 # Nycolas Queiroz Gimenez
 **`Hardware · Firmware · Software`**
 
-<a href="https://www.linkedin.com/in/nycolas-queiroz-g-49324933a/">
+<a href="https://www.linkedin.com/in/nycolas-queiroz-gimenez">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nycolas.gimenez@gmail.com">
